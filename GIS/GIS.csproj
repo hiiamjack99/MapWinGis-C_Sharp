@@ -162,5 +162,8 @@
   <ItemGroup>
     <None Include="bin\Debug\Resource\Icon\remove.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\READ.TXT" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
